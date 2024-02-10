@@ -1,4 +1,4 @@
-package org.example;
+package org.example.unsolved;
 //https://leetcode.com/problems/diagonal-traverse/
 
 public class Main {
