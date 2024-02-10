@@ -1,6 +1,5 @@
 package org.example;
 //https://leetcode.com/problems/diagonal-traverse/
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
